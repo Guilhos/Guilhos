@@ -1,16 +1,25 @@
-### Hi there 👋
+# Guilherme Silva Freire
 
-<!--
-**Guilhos/Guilhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🫡 Sobre mim:
 
-Here are some ideas to get you started:
+  - Estudante de Engenharia de Controle e Automação de Processos
+  - Diretor de Gestão de Pessoas na [OPTIMUS Jr](https://optimusjr.com.br)
+  - Entusiasta em JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔 Curioso sobre:
+
+  <div>
+    <img height="36" src="https://cdn.svgporn.com/logos/java.svg" alt="JAVA logo">
+    <img height="36" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript logo">
+    <img height="36" src="https://cdn.svgporn.com/logos/python.svg" alt="Python logo">
+    <img height="36" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML logo">
+    <img height="36" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS logo">
+    <img height="36" src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino logo">
+  </div>
+
+## 😝 Entre em contato:
+
+  <img height="16" src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="GMAIL LOGO"> [guilhermesfreire1510@gmail.com](mailto:guilhermesfreire1510@gmail.com)
+  
+  <img height="22" src="https://cdn.svgporn.com/logos/instagram-icon.svg" alt="INSTAGRAM LOGO"> [@guiperatzo](https://www.instagram.com/gui.s.freire/)
+  
