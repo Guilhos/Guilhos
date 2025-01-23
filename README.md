@@ -3,8 +3,8 @@
 ## 🫡 Sobre mim:
 
   - Estudante de Engenharia de Controle e Automação de Processos
-  - Diretor de Gestão de Pessoas na [OPTIMUS Jr](https://optimusjr.com.br)
-  - Entusiasta em JAVA
+  - Pesquisador no PRH 35.1
+  - Entusiasta em IA
 
 ## 🤔 Curioso sobre:
 
