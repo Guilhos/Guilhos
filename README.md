@@ -12,8 +12,6 @@
     <img height="36" src="https://cdn.svgporn.com/logos/java.svg" alt="JAVA logo">
     <img height="36" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript logo">
     <img height="36" src="https://cdn.svgporn.com/logos/python.svg" alt="Python logo">
-    <img height="36" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML logo">
-    <img height="36" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS logo">
     <img height="36" src="https://cdn.svgporn.com/logos/arduino.svg" alt="Arduino logo">
   </div>
 
